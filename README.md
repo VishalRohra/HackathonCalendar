@@ -1,11 +1,11 @@
 # Upcoming Hackathons
-===================
 
 This repo tracks upcoming hackathons. 
 
 To add a hackathon to this list, please [submit an issue](https://github.com/VishalRohra/HackathonCalendar/issues/new), or [fork](https://help.github.com/articles/fork-a-repo/) this repo and submit a pull request. Keep hackathons organized by start date and then alphabetically. To get started, you can check whether this repo is up-to-date with [MLH](https://mlh.io/) and [Devpost](http://devpost.com/hackathons).
 
 Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar) by [@japacible](https://github.com/japacible) -- which is not being maintained currently.
+
 
 | Hackathon                                                | Location        | Date (2016)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|

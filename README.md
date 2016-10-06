@@ -85,7 +85,7 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 
 ## TO-DO
 
-- [x] Add MLH-affiliated hackathons ###### last checked: 10.06.16
+- [x] Add MLH-affiliated hackathons `last checked: 10.06.16`
 - [ ] Add Devpost hackathons
 - [ ] Any hackathons in other continents
 - [ ] Corporate hackathons (AngelHacks, WearHacks, Spotify)

@@ -75,10 +75,10 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 | [Junction](http://hackjunction.com/) | Helsinki, Finland | 11.25 - 11.27 |
 | [HackKing's](http://hackkings.org/) | London, UK | 11.26 - 11.27 |
 | [HackNotts](http://hacknotts.com/) | Nottingham, UK | 11.26 - 11.27 |
-| [Local Hack Day](https://localhackday.mlh.io/) | Worldwide | 11.19 - 11.20 |
-| [HackSociety](http://hacksociety.it/) | Bucharest, Romania | 11.19 - 11.20 |
+| [Local Hack Day](https://localhackday.mlh.io/) | Worldwide | 12.03 |
+| [HackSociety](http://hacksociety.it/) | Bucharest, Romania | 12.08 - 12.10 |
 
-| Hackathon                                                | Location        | Date (2017)            |
+| Hackathon                                                | Location (US)       | Date (2017)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [MinneHack](http://minnehack.io/) | Minneapolis, MN | 01.28 - 01.29 |
 | [Hackatown](https://hackatown.io/) | Montreak, QC | 02.04 - 02.05 |

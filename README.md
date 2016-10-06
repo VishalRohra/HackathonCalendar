@@ -8,7 +8,7 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 
 ---
 
-| Hackathon                                                | Location        | Date (2016)            |
+| Hackathon                                                | Location (US)       | Date (2016)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [HackUMass IV](http://hackumass.com/) | Amherst, MA | 10.07 - 10.09 |
 | [HackUState](https://hackustate.org/) | Logan, UT | 10.07 - 10.09 |
@@ -61,10 +61,31 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 | [InFuture](http://www.infuture.io/) | New York, NY | 11.19 - 11.20 |
 | [Local Hack Day](https://localhackday.mlh.io/) | Worldwide | 12.03 |
 
+| Hackathon                                                | Location (Europe)        | Date (2016)            |
+| -------------------------------------------------------------- |-------------  | :---------------------:|
+| [HackUPS](https://hackupc.com/) | Barcelona, Spain | 10.07 - 10.09 |
+| [Do You Have The GUTS](http://gutechsoc.com/) | Glasgow, UK | 10.14 - 10.16 |
+| [HackSheffield](https://www.hacksheffield.co/) | Sheffield, UK | 10.15 - 10.16 |
+| [JacobsHack](https://2016f.jacobshack.com/) | Bremen, Germany | 10.15 - 10.16 |
+| [BrumHack](https://www.brumhack.co.uk/) | Birmingham, UK | 10.29 - 10.30 |
+| [AstonHack](http://astonhack.co.uk/) | Birmingham, UK | 11.05 - 11.06 |
+| [SussHacks](http://hacksussex.org/) | Brighton, UK | 11.12 - 11.13 |
+| [LauzHack](http://lauzhack.com/) | Lausanne, Switzerland | 11.19 - 11.20 |
+| [OxfordHack](http://www.oxfordhack.com/) | Oxford, UK | 11.19 - 11.20 |
+| [Junction](http://hackjunction.com/) | Helsinki, Finland | 11.25 - 11.27 |
+| [HackKing's](http://hackkings.org/) | London, UK | 11.26 - 11.27 |
+| [HackNotts](http://hacknotts.com/) | Nottingham, UK | 11.26 - 11.27 |
+| [Local Hack Day](https://localhackday.mlh.io/) | Worldwide | 11.19 - 11.20 |
+| [HackSociety](http://hacksociety.it/) | Bucharest, Romania | 11.19 - 11.20 |
+
 | Hackathon                                                | Location        | Date (2017)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [MinneHack](http://minnehack.io/) | Minneapolis, MN | 01.28 - 01.29 |
 | [Hackatown](https://hackatown.io/) | Montreak, QC | 02.04 - 02.05 |
 
+## TO-DO
 
-
+- [x] Add MLH-affiliated hackathons
+- [ ] Add Devpost hackathons
+- [ ] Any hackathons in other continents
+- [ ] Corporate hackathons (AngelHacks, WearHacks, Spotify)

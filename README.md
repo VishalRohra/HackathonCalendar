@@ -89,3 +89,4 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 - [ ] Add Devpost hackathons
 - [ ] Any hackathons in other continents
 - [ ] Corporate hackathons (AngelHacks, WearHacks, Spotify)
+- [ ] Instructions to edit

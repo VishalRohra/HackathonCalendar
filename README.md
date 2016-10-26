@@ -6,6 +6,8 @@ To add a hackathon to this list, please [submit an issue](https://github.com/Vis
 
 Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar) -- which is not being maintained currently.
 
+
+**Hackathons in US**
 ---
 
 | Hackathon                                                | Location (US)       | Date (2016)            |
@@ -62,6 +64,9 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 | [HackDuke: Code For Good](https://www.hackduke.org/) | Durham, NC | 11.19 - 11.20 |
 | [InFuture](http://www.infuture.io/) | New York, NY | 11.19 - 11.20 |
 | [Local Hack Day](https://localhackday.mlh.io/) | Worldwide | 12.03 |
+
+**International Hackathons**
+
 
 | Hackathon                                                | Location (Europe)        | Date (2016)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|

@@ -39,6 +39,7 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 | [HackNC](https://hacknc.com/) | Chapel Hill, NC | 10.28 - 10.30 |
 | [CodeRED Curiosity](https://uhcode.red/) | Houston, TX | 10.29 - 10.30 |
 | [Invent:YU](https://inventyu.com/) | New York, NY | 10.29 - 10.30 |
+| [TrojanHacks](https://trojanhacks2016.devpost.com) | Trousdale Pkwy, CA | 10.29 - 10.30 |
 | [ArchHacks](http://archhacks.io/) | St Louis, MO | 11.04 - 11.06 |
 | [Electric City Hacks](http://2016.echacks.xyz/) | Peterborough, ON | 11.04 - 11.06 |
 | [HackHolyoke](http://www.hackholyoke.com/) | South Hadley, MA | 11.04 - 11.05 |

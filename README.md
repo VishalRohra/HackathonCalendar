@@ -34,10 +34,12 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 | [HackTX](https://hacktx.com/) | Austin, TX | 10.22 - 10.23 |
 | [INCLUDE &#60;A-THON&#62;](http://include-hackathon.herokuapp.com/) | San Juan, PR | 10.22 - 10.23 |
 | [MIA Game Jam](http://www.miagamejam.com/) | Miami, FL | 10.22 - 10.23 |
+| [OpenSpace NYV](https://openspacenyc-4230.devpost.com/) | CentralParkWest, NY | 10.28 - 10.29 |
 | [hackMarist](https://hackmarist.com/) | Poughkeepsie, NY | 10.28 - 10.30 |
 | [HackNC](https://hacknc.com/) | Chapel Hill, NC | 10.28 - 10.30 |
 | [CodeRED Curiosity](https://uhcode.red/) | Houston, TX | 10.29 - 10.30 |
 | [Invent:YU](https://inventyu.com/) | New York, NY | 10.29 - 10.30 |
+| [TrojanHacks](https://trojanhacks2016.devpost.com) | Trousdale Pkwy, CA | 10.29 - 10.30 |
 | [ArchHacks](http://archhacks.io/) | St Louis, MO | 11.04 - 11.06 |
 | [Electric City Hacks](http://2016.echacks.xyz/) | Peterborough, ON | 11.04 - 11.06 |
 | [HackHolyoke](http://www.hackholyoke.com/) | South Hadley, MA | 11.04 - 11.05 |

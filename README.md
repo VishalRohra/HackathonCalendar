@@ -68,6 +68,7 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 | [HackSheffield](https://www.hacksheffield.co/) | Sheffield, UK | 10.15 - 10.16 |
 | [JacobsHack](https://2016f.jacobshack.com/) | Bremen, Germany | 10.15 - 10.16 |
 | [BrumHack](https://www.brumhack.co.uk/) | Birmingham, UK | 10.29 - 10.30 |
+| [Galileo Hackathon](https://1st-galileo-hackathon.devpost.com) | Berlin, Germany | 11.03 - 11.04 |
 | [AstonHack](http://astonhack.co.uk/) | Birmingham, UK | 11.05 - 11.06 |
 | [SussHacks](http://hacksussex.org/) | Brighton, UK | 11.12 - 11.13 |
 | [LauzHack](http://lauzhack.com/) | Lausanne, Switzerland | 11.19 - 11.20 |

@@ -34,10 +34,12 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 | [HackTX](https://hacktx.com/) | Austin, TX | 10.22 - 10.23 |
 | [INCLUDE &#60;A-THON&#62;](http://include-hackathon.herokuapp.com/) | San Juan, PR | 10.22 - 10.23 |
 | [MIA Game Jam](http://www.miagamejam.com/) | Miami, FL | 10.22 - 10.23 |
+| [OpenSpace NYV](https://openspacenyc-4230.devpost.com/) | CentralParkWest, NY | 10.28 - 10.29 |
 | [hackMarist](https://hackmarist.com/) | Poughkeepsie, NY | 10.28 - 10.30 |
 | [HackNC](https://hacknc.com/) | Chapel Hill, NC | 10.28 - 10.30 |
 | [CodeRED Curiosity](https://uhcode.red/) | Houston, TX | 10.29 - 10.30 |
 | [Invent:YU](https://inventyu.com/) | New York, NY | 10.29 - 10.30 |
+| [TrojanHacks](https://trojanhacks2016.devpost.com) | Trousdale Pkwy, CA | 10.29 - 10.30 |
 | [ArchHacks](http://archhacks.io/) | St Louis, MO | 11.04 - 11.06 |
 | [Electric City Hacks](http://2016.echacks.xyz/) | Peterborough, ON | 11.04 - 11.06 |
 | [HackHolyoke](http://www.hackholyoke.com/) | South Hadley, MA | 11.04 - 11.05 |
@@ -68,6 +70,7 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 | [HackSheffield](https://www.hacksheffield.co/) | Sheffield, UK | 10.15 - 10.16 |
 | [JacobsHack](https://2016f.jacobshack.com/) | Bremen, Germany | 10.15 - 10.16 |
 | [BrumHack](https://www.brumhack.co.uk/) | Birmingham, UK | 10.29 - 10.30 |
+| [IMED Hackathon](https://hackathon-at-imed-2016-4119.devpost.com) | Vienna, Austria | 11.04 - 11.06 |
 | [AstonHack](http://astonhack.co.uk/) | Birmingham, UK | 11.05 - 11.06 |
 | [SussHacks](http://hacksussex.org/) | Brighton, UK | 11.12 - 11.13 |
 | [LauzHack](http://lauzhack.com/) | Lausanne, Switzerland | 11.19 - 11.20 |

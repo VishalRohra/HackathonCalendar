@@ -53,6 +53,7 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 | [Technica](http://gotechnica.org/) | College Park, MD | 11.05 - 11.06 |
 | [Hackital](http://www.hackital.com/) | Washington, DC | 11.11 - 11.13 |
 | [HackPrinceton](https://hackprinceton.com/) | Princeton, NJ | 11.11 - 11.13 |
+| [Cal Hacks 3.0](http://www.calhacks.io) | Berkeley, CA | 11.11 - 11.13 |
 | [HackTheU](http://hacktheu.com/) | Salt Lake City, UT | 11.11 - 11.12 |
 | [VandyHacks](http://www.vandyhacks.org/) | Nashville, TN | 11.11 - 11.13 |
 | [HackPSU](http://hackpsu.org/) | State College, PA | 11.12 - 11.13 |

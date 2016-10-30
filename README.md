@@ -52,6 +52,7 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 | [Huskie Hack 2016](http://www.huskiehack.org/) | DeKalb, IL | 11.05 - 11.06 |
 | [Technica](http://gotechnica.org/) | College Park, MD | 11.05 - 11.06 |
 | [Hackital](http://www.hackital.com/) | Washington, DC | 11.11 - 11.13 |
+| [YHack](http://www.yhack.org) | New Haven, CT | 11.11 - 11.13 |
 | [HackPrinceton](https://hackprinceton.com/) | Princeton, NJ | 11.11 - 11.13 |
 | [HackTheU](http://hacktheu.com/) | Salt Lake City, UT | 11.11 - 11.12 |
 | [VandyHacks](http://www.vandyhacks.org/) | Nashville, TN | 11.11 - 11.13 |

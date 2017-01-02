@@ -7,94 +7,74 @@ To add a hackathon to this list, please [submit an issue](https://github.com/Vis
 Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar) -- which is not being maintained currently.
 
 
-**Hackathons in US**
+**Hackathons in North America**
 ---
 
-| Hackathon                                                | Location (US)       | Date (2016)            |
+| Hackathon                                                | Location (North America)       | Date (2017)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-| [HackUMass IV](http://hackumass.com/) | Amherst, MA | 10.07 - 10.09 |
-| [HackUState](https://hackustate.org/) | Logan, UT | 10.07 - 10.09 |
-| [Kent Hack Enough](https://khe.io/) | Kent, OH | 10.07 - 10.09 |
-| [MHacks 8](https://mhacks.org/) | Detroit, MI | 10.07 - 10.09 |
-| [HackNY](http://hackny.org/hackathon/) | New York, NY | 10.08 - 10.09 |
-| [RevolutionUC](https://revolutionuc.com/) | Cincinnati, OH | 10.08 - 10.09 |
-| [HackRice](http://hack.rice.edu/) | Houston, TX | 10.14 - 10.16 |
-| [Hack Western 3](https://hackwestern.com/) | London, ON | 10.14 - 10.16 |
-| [QuackCon](http://www.quackcon.com/) | Eugene, OR | 10.14 - 10.16 |
-| [DubHacks](http://16f.dubhacks.co/) | Seattle, WA | 10.15 - 10.16 |
-| [GlassHacks](http://glasshacks.net/) | Toledo, OH | 10.15 - 10.16 |
-| [HackMizzou](http://hackmizzou.com/) | Columbia, MO | 10.15 - 10.16 |
-| [HackRiddle](http://hackriddle.com/) | Daytona Beach, FL | 10.15 - 10.16 |
-| [Citrus Hack](http://www.citrushack.com/) | Riverside, CA | 10.21 - 10.23 |
-| [FiskHacks](http://fiskhacks.org/) | Nashville, TN | 10.21 - 10.23 |
-| [HackGSU](http://hackgsu.com/) | Atlanta, GA | 10.21 - 10.23 |
-| [HackHarvard](http://hackharvard.io/) | Cambridge, MA | 10.21 - 10.23 |
-| [HopHacks](https://hophacks.com/) | Baltimore, MD | 10.21 - 10.23 |
-| [YCP Hacks](http://www.ycphacks.io/) | York, PA | 10.21 - 10.23 |
-| [BioHacksLA](http://www.calstatelabusiness.com/biohacklaland) | Los Angeles, LA | 10.22 - 10.23 |
-| [HackRU](http://www.hackru.org/) | New Brunswick, NJ | 10.22 - 10.23 |
-| [HackTX](https://hacktx.com/) | Austin, TX | 10.22 - 10.23 |
-| [INCLUDE &#60;A-THON&#62;](http://include-hackathon.herokuapp.com/) | San Juan, PR | 10.22 - 10.23 |
-| [MIA Game Jam](http://www.miagamejam.com/) | Miami, FL | 10.22 - 10.23 |
-| [OpenSpace NYV](https://openspacenyc-4230.devpost.com/) | CentralParkWest, NY | 10.28 - 10.29 |
-| [hackMarist](https://hackmarist.com/) | Poughkeepsie, NY | 10.28 - 10.30 |
-| [HackNC](https://hacknc.com/) | Chapel Hill, NC | 10.28 - 10.30 |
-| [CodeRED Curiosity](https://uhcode.red/) | Houston, TX | 10.29 - 10.30 |
-| [Invent:YU](https://inventyu.com/) | New York, NY | 10.29 - 10.30 |
-| [TrojanHacks](https://trojanhacks2016.devpost.com) | Trousdale Pkwy, CA | 10.29 - 10.30 |
-| [ArchHacks](http://archhacks.io/) | St Louis, MO | 11.04 - 11.06 |
-| [Electric City Hacks](http://2016.echacks.xyz/) | Peterborough, ON | 11.04 - 11.06 |
-| [HackHolyoke](http://www.hackholyoke.com/) | South Hadley, MA | 11.04 - 11.05 |
-| [Hoya Hacks](http://www.hoyahacks.com/) | Washington, DC | 11.04 - 11.06 |
-| [Hack AE](http://theaeac.org/events/hackae/) | Binghamton, NY | 11.05 - 11.06 |
-| [HackNJIT](http://hacknjit.org/) | Newark, NJ | 11.05 - 11.06 |
-| [Hack The Hill](http://hackthehill.io/) | Bowling Green, Kentucky | 11.05 - 11.06 |
-| [Huskie Hack 2016](http://www.huskiehack.org/) | DeKalb, IL | 11.05 - 11.06 |
-| [Technica](http://gotechnica.org/) | College Park, MD | 11.05 - 11.06 |
-| [Hackital](http://www.hackital.com/) | Washington, DC | 11.11 - 11.13 |
-| [HackPrinceton](https://hackprinceton.com/) | Princeton, NJ | 11.11 - 11.13 |
-| [HackTheU](http://hacktheu.com/) | Salt Lake City, UT | 11.11 - 11.12 |
-| [VandyHacks](http://www.vandyhacks.org/) | Nashville, TN | 11.11 - 11.13 |
-| [HackPSU](http://hackpsu.org/) | State College, PA | 11.12 - 11.13 |
-| [HackRPI](https://hackrpi.com/) | Troy, NY | 11.12 - 11.13 |
-| [MLH Prime: Southwest](https://prime.mlh.io/events/southwest-regional/) | Austin, TX | 11.12 - 11.13 |
-| [MxHacks IV](https://mxhacks.mx/) | Santa Fe, MX | 11.12 - 11.13 |
-| [TecmiHacks](http://www.tecmihacks.com/) | Monterrey, MX | 11.12 - 11.13 |
-| [WildHacks](http://wildhacks.org/) | Evanston, IL | 11.18 - 11.20 |
-| [HackDuke: Code For Good](https://www.hackduke.org/) | Durham, NC | 11.19 - 11.20 |
-| [InFuture](http://www.infuture.io/) | New York, NY | 11.19 - 11.20 |
-| [Local Hack Day](https://localhackday.mlh.io/) | Worldwide | 12.03 |
-
-**International Hackathons**
-
-
-| Hackathon                                                | Location (Europe)        | Date (2016)            |
-| -------------------------------------------------------------- |-------------  | :---------------------:|
-| [HackUPS](https://hackupc.com/) | Barcelona, Spain | 10.07 - 10.09 |
-| [Do You Have The GUTS](http://gutechsoc.com/) | Glasgow, UK | 10.14 - 10.16 |
-| [HackSheffield](https://www.hacksheffield.co/) | Sheffield, UK | 10.15 - 10.16 |
-| [JacobsHack](https://2016f.jacobshack.com/) | Bremen, Germany | 10.15 - 10.16 |
-| [BrumHack](https://www.brumhack.co.uk/) | Birmingham, UK | 10.29 - 10.30 |
-| [Galileo Hackathon](https://1st-galileo-hackathon.devpost.com) | Berlin, Germany | 11.03 - 11.04 |
-| [AstonHack](http://astonhack.co.uk/) | Birmingham, UK | 11.05 - 11.06 |
-| [SussHacks](http://hacksussex.org/) | Brighton, UK | 11.12 - 11.13 |
-| [LauzHack](http://lauzhack.com/) | Lausanne, Switzerland | 11.19 - 11.20 |
-| [OxfordHack](http://www.oxfordhack.com/) | Oxford, UK | 11.19 - 11.20 |
-| [Junction](http://hackjunction.com/) | Helsinki, Finland | 11.25 - 11.27 |
-| [HackKing's](http://hackkings.org/) | London, UK | 11.26 - 11.27 |
-| [HackNotts](http://hacknotts.com/) | Nottingham, UK | 11.26 - 11.27 |
-| [Local Hack Day](https://localhackday.mlh.io/) | Worldwide | 12.03 |
-| [HackSociety](http://hacksociety.it/) | Bucharest, Romania | 12.08 - 12.10 |
-
-| Hackathon                                                | Location (US)       | Date (2017)            |
-| -------------------------------------------------------------- |-------------  | :---------------------:|
+| [Hack the Valley](https://www.hackvalley.com/) | Toronto, ON | 01.07 - 01.08 |
+| [Hack Arizone](http://hackarizona.org/) | Tucson, AZ | 01.13 - 01.15 |
+| [Hack@WPI](http://hack.wpi.edu/) | Worcestor, MA | 01.13 - 01.15 |
+| [Def Hacks Seattle](http://defhacks.io/seattle.html) | Seattle, WA | 01.14 - 01.15 |
+| [HackFRee](http://hackfree.info/) | Manalapan, NJ | 01.14 - 01.15 |
+| [Ünçömmön Ha¢ks](http://uncommonhacks.com/) | Chicago, IL | 01.14 - 01.15 |
+| [Hack UCSC](http://www.hackucsc.com/) | Santa Cruz, CA | 01.20 - 01.22 |
+| [SB Hacks](http://www.sbhacks.com/) | Santa Barbara, CA | 01.20 - 01.22 |
+| [SpartaHack 2017](http://www.spartahack.com/) | East Lansing, MI | 01.20 - 01.22 |
+| [SwampHacks](http://2017.swamphacks.com/) | Gainesville, FL | 01.20 - 01.22 |
+| [UofTHacks](https://uofthacks.com/) | Toronto, ON | 01.20 - 01.22 |
+| [ConUHacks](http://conuhacks.io/) | Montreal, QC | 01.21 - 01.22 |
+| [HackDavis](https://hackdavis.io/) | Davis, CA | 01.21 - 01.22 |
+| [Fashion/Tech Hackathon](http://www.fashiontechhackathon.com/) | Kent, OH | 01.27 - 01.29 |
+| [DeltaHacks](http://deltahacks.com/) | Hamilton, ON | 01.28 - 01.29 |
+| [Devil Hack](http://www.warrentownshiphs.portal.rschooltoday.com/page/3904) | Gurnee, IL | 01.28 - 01.29 |
+| [HackED 2017](http://hacked.compeclub.com/) | Edmonton, AB | 01.28 - 01.29 |
 | [MinneHack](http://minnehack.io/) | Minneapolis, MN | 01.28 - 01.29 |
-| [Hackatown](https://hackatown.io/) | Montreak, QC | 02.04 - 02.05 |
+| [QHacks](http://qhacks.io/) | Kingston, ON | 02.03 - 02.05 |
+| [Hackatown](https://hackatown.io/) | Montreal, QC | 02.04 - 02.05 |
+| [ProfHacks](http://profhacks.com/) | Glassboro, NJ | 02.04 - 02.05 |
+| [HackMerced](http://hackmerced.com/) | Merced, CA | 02.10 - 02.12 |
+| [BrickHack](https://brickhack.io/) | Rochestor, NY | 02.11 - 02.12 |
+| [Desert Hacks](http://www.deserthacks.org/) | Phoenix, AZ | 02.11 - 02.12 |
+| [Disrupt The District](http://www.disruptdc.io/) | Washington, DC | 02.11 - 02.12 |
+| [HackPoly](http://www.hackpoly.com/) | Pomona, CA | 02.11 - 02.12 |
+| [PearlHacks](http://pearlhacks.com/) | Chapel Hill, NC | 02.11 - 02.12 |
+| [DandyHacks](http://www.dandyhacks.org/) | Rochestor, NY | 02.17 - 02.19 |
+| [Hack Central](http://hackcentral.ca/) | Winnipeg, MB | 02.17 - 02.19 |
+| [Hack@CEWIT](http://www.cewit.org/hack/) | Stony Brook, NY | 02.17 - 02.19 |
+| [HackNYU](http://hacknyu.org/) | New York, NY | 02.17 - 02.19 |
+| [JHacks](http://jhacksumd.com/) | College Park, MD | 02.18 - 02.19 |
+| [CalgaryHacks](http://calgaryhacks.com/) | Calgary, AB | 02.21 - 02.22 |
+| [DerbyHacks](http://derbyhacks.io/) | Louisville, KY | 02.24 - 02.26 |
+| [T9Hacks](http://www.t9hacks.org/) | Boulder, CO | 02.25 - 02.26 |
+| [WiCHacks](http://wic-hacks.rit.edu/) | Rochestor, NY | 02.25 - 02.26 |
+| [HackTech](http://hacktech.io/) | Pasadena, CA | 03.03 - 03.05 |
+| [CUHacking](http://cuhacking.com/) | Ottawa, ON | 03.04 - 03.05 |
+| [Hack Potsdam](http://hackpotsdam.com/) | Potsdam, NY | 03.04 - 03.05 |
+| [SiliconHacks](http://siliconhacks.com/) | Fremont, CA | 03.04 - 03.05 |
+| [nwHacks](http://www.nwhacks.io/) | Vancouver, BC | 03.18 - 03.19 |
+| [SF Hacks](http://sfhacks.io/) | San Francisco, CA | 03.18 - 03.19 |
+| [CrimsonHacks](http://crimsonhacks.com/) | Tuscaloosa, AL | 03.25 - 03.26 |
+| [hackBCA](http://www.hackbca.com/) | Hackensack, NJ | 03.25 - 03.26 |
+| [HackTJ](https://hacktj.org/) | Alexandria, VA | 03.25 - 03.26 |
+| [HSHacks](http://www.hshacks.com/) | Fremont, CA | 03.25 - 03.26 |
+| [MLH Prime: West Coast](https://prime.mlh.io/events/west-coast-regional/) | Los Angeles, CA | 03.25 - 03.26 |
+| [WiseHacks](http://wisehacks.swcenter.edu/) | Abingdon, VA | 03.25 - 03.26 |
+| [HackGSU](http://hackgsu.com/) | Atlanta, GA | 03.31 - 04.02 |
+| [TribeHacks](http://www.tribehacks.com/) | Williamsburg, VA | 03.31 - 04.02 |
+| [HackCU III](https://2017.hackcu.org/) | Boulder, CO | 04.08 - 04.09 |
+| [CarkHacks](https://carlhacks.com/) | Northfield, MN | 04.15 - 04.16 |
+
+**Hackathons in Europe**
+
+
+| Hackathon                                                | Location (Europe)        | Date (2017)            |
+| -------------------------------------------------------------- |-------------  | :---------------------:|
+| [StirHack](http://succ.cs.stir.ac.uk/stirhack/) | Stirling, UK | 02.11 - 02.12 |
 
 ## TO-DO
 
-- [x] Add MLH-affiliated hackathons `last checked: 10.06.16`
+- [x] Add MLH-affiliated hackathons `last checked: 01.02.17`
 - [ ] Add Devpost hackathons
 - [ ] Any hackathons in other continents
 - [ ] Corporate hackathons (AngelHacks, WearHacks, Spotify)
-- [ ] Instructions to edit

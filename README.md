@@ -13,23 +13,30 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 | Hackathon                                                | Location (North America)       | Date (2017)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [Hack the Valley](https://www.hackvalley.com/) | Toronto, ON | 01.07 - 01.08 |
+| [#NMCHackForHunger](http://xl8hackathon.s3.amazonaws.com/index.html) | New York, NY | 01.07 - 01.08 |
 | [Hack Arizone](http://hackarizona.org/) | Tucson, AZ | 01.13 - 01.15 |
 | [Hack@WPI](http://hack.wpi.edu/) | Worcestor, MA | 01.13 - 01.15 |
 | [Def Hacks Seattle](http://defhacks.io/seattle.html) | Seattle, WA | 01.14 - 01.15 |
 | [HackFRee](http://hackfree.info/) | Manalapan, NJ | 01.14 - 01.15 |
+| [Hack The Gap](http://www.hackthegap.com/hackathons/january-2017) | Minneapolis, MN | 01.14 - 01.15 |
 | [Ünçömmön Ha¢ks](http://uncommonhacks.com/) | Chicago, IL | 01.14 - 01.15 |
 | [Hack UCSC](http://www.hackucsc.com/) | Santa Cruz, CA | 01.20 - 01.22 |
+| [PennApps XV](http://2017w.pennapps.com/) | Philadelphia, PA | 01.20 - 01.22 |
 | [SB Hacks](http://www.sbhacks.com/) | Santa Barbara, CA | 01.20 - 01.22 |
 | [SpartaHack 2017](http://www.spartahack.com/) | East Lansing, MI | 01.20 - 01.22 |
 | [SwampHacks](http://2017.swamphacks.com/) | Gainesville, FL | 01.20 - 01.22 |
 | [UofTHacks](https://uofthacks.com/) | Toronto, ON | 01.20 - 01.22 |
+| [Valley Hackathon](http://valleyhackathon.com/) | Modesto, CA | 01.20 - 01.22 |
 | [ConUHacks](http://conuhacks.io/) | Montreal, QC | 01.21 - 01.22 |
 | [HackDavis](https://hackdavis.io/) | Davis, CA | 01.21 - 01.22 |
+| [Hack For 2030](http://hackfor2030.org/) | Boston, MA | 01.27 - 01.29 |
 | [Fashion/Tech Hackathon](http://www.fashiontechhackathon.com/) | Kent, OH | 01.27 - 01.29 |
 | [DeltaHacks](http://deltahacks.com/) | Hamilton, ON | 01.28 - 01.29 |
 | [Devil Hack](http://www.warrentownshiphs.portal.rschooltoday.com/page/3904) | Gurnee, IL | 01.28 - 01.29 |
+| [GIF Hack](https://gifhack.devpost.com) | Palo Alto, CA | 01.28 - 01.29 |
 | [HackED 2017](http://hacked.compeclub.com/) | Edmonton, AB | 01.28 - 01.29 |
 | [MinneHack](http://minnehack.io/) | Minneapolis, MN | 01.28 - 01.29 |
+| [PixelHacks](http://pixelhacks.wixsite.com/2017) | Santa Clara, CA | 01.28 - 01.29 |
 | [QHacks](http://qhacks.io/) | Kingston, ON | 02.03 - 02.05 |
 | [Hackatown](https://hackatown.io/) | Montreal, QC | 02.04 - 02.05 |
 | [ProfHacks](http://profhacks.com/) | Glassboro, NJ | 02.04 - 02.05 |
@@ -65,16 +72,20 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 | [HackCU III](https://2017.hackcu.org/) | Boulder, CO | 04.08 - 04.09 |
 | [CarkHacks](https://carlhacks.com/) | Northfield, MN | 04.15 - 04.16 |
 
-**Hackathons in Europe**
+**International Hackathons**
 
 
-| Hackathon                                                | Location (Europe)        | Date (2017)            |
+| Hackathon                                                | Location        | Date (2017)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
+
+| [Hack To Teach](https://hacktoteach.devpost.com) | Nairobi, Kenya | 01.25 - 01.27 |
+| [Xamarin: Appte con todos](https://apptecontodos.devpost.com) | Madrid, Spain | 01.25 - 01.26 |
+| [DEWA Student Hackathon](https://dewahacks.devpost.com) | Dubai, UAE | 01.27 - 01.28 |
 | [StirHack](http://succ.cs.stir.ac.uk/stirhack/) | Stirling, UK | 02.11 - 02.12 |
 
 ## TO-DO
 
 - [x] Add MLH-affiliated hackathons `last checked: 01.02.17`
-- [ ] Add Devpost hackathons
+- [x] Add Devpost hackathons `till january` `last checked: 01.03.17`
 - [ ] Any hackathons in other continents
 - [ ] Corporate hackathons (AngelHacks, WearHacks, Spotify)

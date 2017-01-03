@@ -10,7 +10,7 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 **Hackathons in North America**
 ---
 
-| Hackathon                                                | Location (North America)       | Date (2017)            |
+| Hackathon                                                | Location       | Date (2017)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [Hack the Valley](https://www.hackvalley.com/) | Toronto, ON | 01.07 - 01.08 |
 | [#NMCHackForHunger](http://xl8hackathon.s3.amazonaws.com/index.html) | New York, NY | 01.07 - 01.08 |
@@ -73,11 +73,10 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 | [CarkHacks](https://carlhacks.com/) | Northfield, MN | 04.15 - 04.16 |
 
 **International Hackathons**
-
+---
 
 | Hackathon                                                | Location        | Date (2017)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
-
 | [Hack To Teach](https://hacktoteach.devpost.com) | Nairobi, Kenya | 01.25 - 01.27 |
 | [Xamarin: Appte con todos](https://apptecontodos.devpost.com) | Madrid, Spain | 01.25 - 01.26 |
 | [DEWA Student Hackathon](https://dewahacks.devpost.com) | Dubai, UAE | 01.27 - 01.28 |

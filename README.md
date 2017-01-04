@@ -37,13 +37,16 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 | [HackED 2017](http://hacked.compeclub.com/) | Edmonton, AB | 01.28 - 01.29 |
 | [MinneHack](http://minnehack.io/) | Minneapolis, MN | 01.28 - 01.29 |
 | [PixelHacks](http://pixelhacks.wixsite.com/2017) | Santa Clara, CA | 01.28 - 01.29 |
+| [GhostHack Cincinnati](https://www.ghostred.com/) | Cincinnati, OH | 02.03 - 02.04 |
 | [QHacks](http://qhacks.io/) | Kingston, ON | 02.03 - 02.05 |
 | [Hackatown](https://hackatown.io/) | Montreal, QC | 02.04 - 02.05 |
+| [Los Altos Hacks II](http://www.losaltoshacks.com/) | Redwood City, CA | 02.04 - 02.05 |
 | [ProfHacks](http://profhacks.com/) | Glassboro, NJ | 02.04 - 02.05 |
 | [HackMerced](http://hackmerced.com/) | Merced, CA | 02.10 - 02.12 |
 | [BrickHack](https://brickhack.io/) | Rochestor, NY | 02.11 - 02.12 |
 | [Desert Hacks](http://www.deserthacks.org/) | Phoenix, AZ | 02.11 - 02.12 |
 | [Disrupt The District](http://www.disruptdc.io/) | Washington, DC | 02.11 - 02.12 |
+| [GhostHack Atlanta](https://www.ghostred.com/) | Atlanta, GA | 02.11 - 02.12 |
 | [HackPoly](http://www.hackpoly.com/) | Pomona, CA | 02.11 - 02.12 |
 | [PearlHacks](http://pearlhacks.com/) | Chapel Hill, NC | 02.11 - 02.12 |
 | [DandyHacks](http://www.dandyhacks.org/) | Rochestor, NY | 02.17 - 02.19 |

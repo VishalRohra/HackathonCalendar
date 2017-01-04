@@ -43,6 +43,8 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 | [Los Altos Hacks II](http://www.losaltoshacks.com/) | Redwood City, CA | 02.04 - 02.05 |
 | [ProfHacks](http://profhacks.com/) | Glassboro, NJ | 02.04 - 02.05 |
 | [HackMerced](http://hackmerced.com/) | Merced, CA | 02.10 - 02.12 |
+| [Norwalk Hackathon](https://norwalk-hackathon.devpost.com) | Norwalk, CT | 02.10 - 02.12 |
+| [AthenaHacks](http://athenahacks.com/) | Los Angeles, CA | 02.11 - 02.12 |
 | [BrickHack](https://brickhack.io/) | Rochestor, NY | 02.11 - 02.12 |
 | [Desert Hacks](http://www.deserthacks.org/) | Phoenix, AZ | 02.11 - 02.12 |
 | [Disrupt The District](http://www.disruptdc.io/) | Washington, DC | 02.11 - 02.12 |
@@ -53,9 +55,11 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 | [Hack Central](http://hackcentral.ca/) | Winnipeg, MB | 02.17 - 02.19 |
 | [Hack@CEWIT](http://www.cewit.org/hack/) | Stony Brook, NY | 02.17 - 02.19 |
 | [HackNYU](http://hacknyu.org/) | New York, NY | 02.17 - 02.19 |
+| [Tree Hacks](https://www.treehacks.com/) | Stanford, CA | 02.17 - 02.19 |
 | [JHacks](http://jhacksumd.com/) | College Park, MD | 02.18 - 02.19 |
 | [CalgaryHacks](http://calgaryhacks.com/) | Calgary, AB | 02.21 - 02.22 |
 | [DerbyHacks](http://derbyhacks.io/) | Louisville, KY | 02.24 - 02.26 |
+| [#ExpeditionHacks](http://www.expeditionhacks.com/) | Huntsville, AL | 02.25 - 02.26 |
 | [T9Hacks](http://www.t9hacks.org/) | Boulder, CO | 02.25 - 02.26 |
 | [WiCHacks](http://wic-hacks.rit.edu/) | Rochestor, NY | 02.25 - 02.26 |
 | [HackTech](http://hacktech.io/) | Pasadena, CA | 03.03 - 03.05 |
@@ -88,6 +92,5 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 ## TO-DO
 
 - [x] Add MLH-affiliated hackathons `last checked: 01.02.17`
-- [x] Add Devpost hackathons `till january` `last checked: 01.03.17`
-- [ ] Any hackathons in other continents
+- [x] Add Devpost-listed hackathons `till february` `last checked: 01.04.17`
 - [ ] Corporate hackathons (AngelHacks, WearHacks, Spotify)

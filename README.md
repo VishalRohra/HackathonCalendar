@@ -65,6 +65,10 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 | [HackDuke: Code For Good](https://www.hackduke.org/) | Durham, NC | 11.19 - 11.20 |
 | [InFuture](http://www.infuture.io/) | New York, NY | 11.19 - 11.20 |
 | [Local Hack Day](https://localhackday.mlh.io/) | Worldwide | 12.03 |
+| Hackathon                                                | Location (US)       | Date (2017)            |
+| -------------------------------------------------------------- |-------------  | :---------------------:|
+| [HackGT](https://hack.gt) | Atlanta, GA | 10.13 - 10.15 |
+
 
 **International Hackathons**
 

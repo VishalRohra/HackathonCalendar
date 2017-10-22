@@ -68,6 +68,7 @@ Inspired by [Hackathon-Calendar](https://github.com/japacible/Hackathon-Calendar
 | Hackathon                                                | Location (US)       | Date (2017)            |
 | -------------------------------------------------------------- |-------------  | :---------------------:|
 | [HackGT](https://hack.gt) | Atlanta, GA | 10.13 - 10.15 |
+| [HackPrinceton](https://hackprinceton.com) | Princeton, NJ | 11.10 - 11.12 |
 
 
 **International Hackathons**
